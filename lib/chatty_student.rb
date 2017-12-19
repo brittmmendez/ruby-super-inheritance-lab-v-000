@@ -6,7 +6,7 @@ super
 end
 
 def raise_hand
-  super.10
+  super*10
 end
 
 
